@@ -1,9 +1,3 @@
-
----
-
-# 📕 3️⃣ `README_EN.md` (ENGLISH)
-
-```md
 # 🎮 Gamepad Switcher & Tester (Legion Go ↔ 8BitDo)
 
 A Linux terminal tool that allows you to switch between two game controllers
