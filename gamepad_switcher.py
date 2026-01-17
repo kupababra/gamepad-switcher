@@ -58,7 +58,7 @@ def print_banner():
     clear()
     print(f"{WHITE}=========================================================={RESET}")
     print(f"{PURPLE}   Gentoo Linux GAMEPAD SWITCHER & TESTER 0.1.0-alpha{RESET}")
-    print(f"{WHITE}   by bofh@retro-technology.pl Legion Go ↔ 8BitDo{RESET}")
+    print(f"{WHITE}   by id3fix@retro-technology.pl Legion Go ↔ 8BitDo{RESET}")
     print(f"{PURPLE}   tipply.pl/@unix-tech -  buy coffe.{RESET}")
     print(f"{PURPLE}   Check https://github.com/kupababra/{RESET}")
     print(f"{WHITE}=========================================================={RESET}\n")
