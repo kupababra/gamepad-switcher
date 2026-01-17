@@ -36,4 +36,4 @@ Notes
 After switching controllers, restart Steam.
 Author
 
-bofh@retro-technology.pl
+id3fix@retro-technology.pl
